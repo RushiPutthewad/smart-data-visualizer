@@ -1,0 +1,3 @@
+@echo off
+echo Starting Intelligent Data Visualizer...
+streamlit run streamlit_app.py
