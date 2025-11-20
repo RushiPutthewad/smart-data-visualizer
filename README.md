@@ -1,6 +1,8 @@
 # 🎯 Smart Data Visualizer
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
+<img align="right" width="230" src="https://github.com/user-attachments/assets/23556f8b-c4dd-4242-ac1a-7238462c98f7" alt="output-onlinegiftools">
+
+[![Python](https://img.shields.io/badge/Python-3.13%2B-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red.svg)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
