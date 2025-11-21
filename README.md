@@ -83,6 +83,7 @@ smart-data-visualizer/
 ```
 
 ## 🎯 Use Cases
+<img align="right" width="500" src="https://github.com/user-attachments/assets/8cce94a5-5345-41f4-9084-e629bf8a5e51" alt="echelon-data-quipo">
 
 ### 📈 **Business Analytics**
 - Sales performance analysis
@@ -125,6 +126,7 @@ seaborn >= 0.11.0
 ```
 
 ## 📊 Chart Gallery
+<img align="right" width="500" src="https://github.com/user-attachments/assets/82ec3984-e496-4c3f-a1c6-09c3a0a577f8" alt="data_inform_illustration_animation">
 
 ### **Distribution Analysis**
 - **Histograms**: Frequency distributions with customizable bins
